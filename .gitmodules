@@ -1,3 +1,6 @@
 [submodule "src/bundler"]
 	path = src/bundler
 	url = https://github.com/chris-cooper/bundler_sfm
+[submodule "odm-image-uploader"]
+	path = odm-image-uploader
+	url = git@github.com:smart-facility/odm-image-uploader
